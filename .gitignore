@@ -1,0 +1,7 @@
+# Compiled executables
+*.out
+*.exe
+*.o
+
+# macOS compiled files
+.DS_Store
